@@ -536,5 +536,4 @@ reports and feature requests
 
 ---
 
-**[MIT Licensed](./licence.md)** • Built with ❤️ by the
-[Daydreams](https://www.daydreams.systems/) team
+**[MIT Licensed](./licence.md)** • Built with ❤️ by the Daydreams team
